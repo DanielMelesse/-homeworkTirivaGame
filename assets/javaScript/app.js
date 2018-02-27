@@ -123,7 +123,7 @@ function timer() {
 
 function startGame(){
     getQuestion();
-    // timer();
+    timer();
 }
 
 function gameOver(){
