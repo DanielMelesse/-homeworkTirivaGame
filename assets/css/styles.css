@@ -1,0 +1,36 @@
+.jumbotron {
+    background: lightslategray;
+    margin-top: 30px;
+    
+}
+
+
+.tiltle {
+    /* padding-top: 2em; */
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.startGame {
+    text-align: center;
+    padding: 20px;
+}
+
+.timer {
+    padding: 20px;
+    text-align: center;
+    color: black;
+    
+   
+}
+.radioBtn {
+    width: 150px;
+    text-align: center;
+    margin: 2em;
+    border: 2em;
+    padding: 2em;
+}
+.questions {
+    text-align: center;
+}
